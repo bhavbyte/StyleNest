@@ -1,6 +1,7 @@
 {
   "name": "stylenest",
   "version": "0.1.0",
+  "homepage": "https://bhavbyte.github.io/StyleNest",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
