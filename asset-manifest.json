@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StyleNest/static/css/main.9cc5efd3.css",
+    "main.js": "/StyleNest/static/js/main.9a0b9fa3.js",
+    "static/js/453.71874249.chunk.js": "/StyleNest/static/js/453.71874249.chunk.js",
+    "index.html": "/StyleNest/index.html",
+    "main.9cc5efd3.css.map": "/StyleNest/static/css/main.9cc5efd3.css.map",
+    "main.9a0b9fa3.js.map": "/StyleNest/static/js/main.9a0b9fa3.js.map",
+    "453.71874249.chunk.js.map": "/StyleNest/static/js/453.71874249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cc5efd3.css",
+    "static/js/main.9a0b9fa3.js"
+  ]
+}
